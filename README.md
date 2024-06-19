@@ -7,9 +7,11 @@
 - High severity: $25,000 - $50,000
 - Medium severity: $10,000 - $25,000
 
+---
   
-- Join [C4 Discord](https://discord.gg/code4rena) to register
-- Submit findings [using the C4 form](https://code4rena.com/bounties/loopfi-bounty/submit)
+-   Join [C4 Discord](https://discord.gg/code4rena) to register
+-   Submit findings [using the C4 form](https://code4rena.com/bounties/SponsorName/submit)
+-   [Read our Code4rena Blue guidelines for more details](https://docs.google.com/document/d/1jzNh1Bat5iK6ryqvQ41_8GQjQ-ifxhHDlFINL_uijr4/edit?usp=sharing)
 
 ❗ _Note for participants: The sponsor's repo, scope definition, and contents herein are all subject to change._
 
@@ -39,12 +41,15 @@ For more information about LoopFi, please visit https://www.loopfi.xyz/.
 
 ## Links
 
-- **Previous audits:** [List of completed audits](https://docs.loopfi.xyz/extras/security)
-- **Documentation:** [Loopfi Documentation](https://docs.loopfi.io/)
-- **Codebase:** [Loopfi-contracts](https://github.com/loopfi-io/loopfi-contracts.) 
-- **Website:** [Visit Website](https://www.loopfi.xyz/)
-- **Twitter:** [Profile](https://x.com/loopfixyz)
-- **Discord:** [Join channel](https://discord.com/invite/mVqf2Q5Whg)
+- **Previous audits:** [Audit Reports](https://docs.loopfi.xyz/extras/security)
+- **Documentation:**
+  - [Loopfi introduction](https://docs.loopfi.io/)
+  - [Loopfi for dForce](https://docs.loopfi.io/how-to-guides/loopfi-for-dforce)
+- **Codebase:**
+  - [Contracts](https://github.com/loopfi-io/loopfi-contracts.) 
+- **Website:** https://www.loopfi.xyz/
+- **Twitter:** [@loopfixyz](https://x.com/loopfixyz)
+- **Discord:** https://discord.gg/mVqf2Q5Whg
 
 
 # Scope
