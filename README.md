@@ -48,7 +48,7 @@ For more information about LoopFi, please visit https://www.loopfi.xyz/.
 - **Codebase:** [Loopfi-contracts](https://github.com/loopfi-io/loopfi-contracts.) 
 - **Website:** [Visit Website](https://www.loopfi.xyz/)
 - **Twitter:** [Profile](https://x.com/loopfixyz)
-- **Discord:** [Check LinkTree](https://tr.ee/31_WN-0wcv)
+- **Discord:** [Join channel](https://discord.com/invite/mVqf2Q5Whg)
 
 
 # Scope
