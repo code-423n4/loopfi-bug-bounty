@@ -14,11 +14,11 @@
 
 ## Publicly Known Issues
 
-- LoopFi commits to providing Known Issue Assurance to bug submissions through their program. This means that LoopFi will either disclose known issues publicly, or at the very least, privately via a self-reported bug submission. 
+- Crafting malicious calldata so that users get less funds as expected when claiming lpETH on LRT deposits (e.g. by setting big slippage/price impact)
+- Owner setting malicious lpETH and lpETHVault contracts. Users have 7 days to withdraw in that case.
+- Previous audit findings are out of scope.
 
-Bug reports covering previously-discovered bugs (listed below) are not eligible for a reward within this program. This includes known issues that the project is aware of but has consciously decided not to “fix”, necessary code changes, or any implemented operational mitigating procedures that can lessen potential risk. 
-
-All known/disputed/unsatisfactory issues from LoopFi [contest](https://code4rena.com/audits/2024-05-loopfi#top) in C4
+All known/disputed/unsatisfactory issues from LoopFi [contest](https://code4rena.com/audits/2024-05-loopfi#top) in C4 and any previous audits.
 
 
 # Project Overview
