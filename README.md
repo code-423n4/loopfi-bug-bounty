@@ -44,6 +44,28 @@ For more information about LoopFi, please visit https://www.loopfi.xyz/.
 | ----------- | ----------- | ----------- | ----------- |
 | [loop-prelaunch-contracts/blob/main/src/](https://github.com/LoopFi/loop-prelaunch-contracts/blob/main/src/PrelaunchPoints.sol) | 135 | Users can stake ETH into this contract, which will emit events tracked on a backed to calculate their corresponding amount of points. When staking, users can use a referral code encoded as bytes32 that will give the referral extra points. | [`@openzeppelin/*`](https://openzeppelin.com/contracts/) |
 
+# Additional context
+
+## Main invariants
+
+- Only the owner can set new accepted LRTs, change mode to emergency mode on failure of 0x integration, and set a new owner
+- Deposits are active up to the lpETH contract and lpETHVault contract are set
+- Withdrawals are only active on emergency mode or during 7 days after loopActivation is set
+- Users that deposit ETH/WETH get the correct amount of lpETH on claim (1 to 1 conversion)
+- Users that deposit LRTs get the correct amount assuming a favorable swap to ETH
+
+
+## Attack ideas (where to focus for bugs)
+- Malicious 0x protocol calldata crafting by users to steal funds on claim
+- User funds getting locked forever
+
+## All trusted roles in the protocol
+
+
+| Role                                | Description                       |
+| --------------------------------------- | ---------------------------- |
+| Owner                          | Has access to privileged functions, contract owner             |
+
 ## Miscellaneous
 
 Employees of [SPONSOR NAME] and employees' family members are ineligible to participate in this bounty.
