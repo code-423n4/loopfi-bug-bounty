@@ -1,4 +1,5 @@
 # LoopFi Bounty Details
+
 - Until TVL < $500,000
   - Critical: $50,000
 - Once TVL > $500,0000
