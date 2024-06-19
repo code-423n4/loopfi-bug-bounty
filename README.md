@@ -9,11 +9,7 @@
 
   
 - Join [C4 Discord](https://discord.gg/code4rena) to register
-- Submit findings [using the C4 form](https://code4rena.com/bounties/redacted-cartel/submit)
-- [Read our Code4rena Blue guidelines for more details](https://docs.google.com/document/d/1jzNh1Bat5iK6ryqvQ41_8GQjQ-ifxhHDlFINL_uijr4/edit?usp=sharing)
-
-- Join [C4 Discord](https://discord.gg/code4rena) to register
-- Submit findings [using the C4 form](https://code4rena.com/bounties/SponsorName/submit)
+- Submit findings [using the C4 form](https://code4rena.com/bounties/loopfi-bounty/submit)
 
 ❗ _Note for participants: The sponsor's repo, scope definition, and contents herein are all subject to change._
 
