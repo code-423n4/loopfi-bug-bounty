@@ -76,4 +76,4 @@ For more information about LoopFi, please visit https://www.loopfi.xyz/.
 
 ## Miscellaneous
 
-Employees of [SPONSOR NAME] and employees' family members are ineligible to participate in this bounty.
+Employees of LoopFi and employees' family members are ineligible to participate in this bounty.
