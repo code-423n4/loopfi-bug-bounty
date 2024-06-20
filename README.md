@@ -4,8 +4,8 @@
   - Critical: $50,000
 - Once TVL > $500,000
   - Critical: $100,000
-- High severity: $25,000 - $50,000
-- Medium severity: $10,000 - $25,000
+- High severity: &#36;25,000 - &#36;50,000
+- Medium severity: &#36;10,000 - &#36;25,000
 
 ---
   
