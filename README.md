@@ -43,8 +43,7 @@ For more information about LoopFi, please visit https://www.loopfi.xyz/.
 
 - **Previous audits:** [Audit Reports](https://docs.loopfi.xyz/extras/security)
 - **Documentation:**
-  - [Loopfi introduction](https://docs.loopfi.io/)
-  - [Loopfi for dForce](https://docs.loopfi.io/how-to-guides/loopfi-for-dforce)
+  - [Loopfi introduction](https://docs.loopfi.xyz/)
 - **Codebase:**
   - [Contracts](https://github.com/loopfi-io/loopfi-contracts.) 
 - **Website:** https://www.loopfi.xyz/
