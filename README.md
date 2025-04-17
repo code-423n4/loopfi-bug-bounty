@@ -1,3 +1,5 @@
+# The LoopFi Bug Bounty is closed for submissions
+
 # LoopFi Bounty Details
 
 - Until TVL < $500,000
